@@ -1,5 +1,5 @@
 import React from "react";
-import App from '../shared/app/app';
+import App from './app';
 
 export default function TopAppsBar() {
     // fetch from server
